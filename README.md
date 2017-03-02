@@ -7,7 +7,7 @@
 3. Move into the directory and execute script like so:
 
 ```
-cd path/to/unzipped/arianne-halp
+cd path/to/unzipped/arianne-halp-master
 python compare_lists.py
 # Should output some help text
 python compare_lists.py sample_data/file1.txt sample_data/file2.txt
