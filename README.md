@@ -17,4 +17,11 @@ python compare_lists.py sample_data/file1.txt sample_data/file2.txt
 python compare_lists.py sample_data/file1.txt sample_data/file2.txt > my_common_list.txt
 ```
 
+## Notes
+
+* Assumes:
+  * We're looking for exact matches between lists.
+  * List files have one entry per line.
+
+
    [download]: https://github.com/patcon/arianne-halp/archive/master.zip
