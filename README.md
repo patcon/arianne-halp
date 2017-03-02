@@ -2,7 +2,7 @@
 
 ## Usage
 
-1. Download and unzip this project to a known folder.
+1. [Download][download] and unzip this project to a known folder.
 2. Open up your computer's terminal application.
 3. Move into the directory and execute script like so:
 
@@ -16,3 +16,5 @@ python compare_lists.py sample_data/file1.txt sample_data/file2.txt
 # To put that data in a file instead of printing to your screen:
 python compare_lists.py sample_data/file1.txt sample_data/file2.txt > my_common_list.txt
 ```
+
+   [download]: https://github.com/patcon/arianne-halp/archive/master.zip
